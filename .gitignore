@@ -3,3 +3,4 @@ node_modules
 -e "node_modules/\n.parcel-cache/" 
 -e "node_modules/\n.parcel-cache/" 
 -e "node_modules/\n.parcel-cache/" 
+-e "node_modules/\n.parcel-cache/" 
